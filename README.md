@@ -37,8 +37,10 @@ THIS PART OF THE CODE GIVES THE SUMMARY BY PLOTTING A BAR GRAPH THAT SAYS
 This chart shows the total number of passengers in blue and the number of survivors in orange based on age and gender. The difference between the blue bar and the orange bar is the number of people who lost their lives aboard the Titanic. The percentage that survived is shown above each bar
 THE NO OF FEMALE PASSENGERS SURVIVED  BASED ON AGE 
 ![Screenshot (12)](https://github.com/user-attachments/assets/d3d17947-0dee-45e7-a75f-f6cc655505d7)
-THE NO OF MALE PASSANGERS SURVIVED BASED ON AGE 
+{ THE AGE GROUP OF 60 HAD THE HIGHEST SURVIVERS WITH 93% }
+THE NO OF FEMALE PASSANGERS SURVIVED BASED ON AGE 
 ![Screenshot (13)](https://github.com/user-attachments/assets/4e180082-b81e-4074-963d-eb7e9586505e)
+THE NO OF MALE PASSANGERS SURVIVED BASED ON AGE 
 
 
 
