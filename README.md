@@ -9,9 +9,12 @@ TOTAL NUMBER OF SURVIVERS ARE
 
 2.
 THIS PART OF THE CODE GIVES THE SUMMARY BY displaying a graph of average passenger fare by gender.
+First Category: Females have a higher value (51.94) compared to males (48.06).
+Second Category: Both females and males have the same value (23.02).
+Third Category: Females have a slightly higher value (22.19) compared to males (21.99).
 ![Screenshot (6)](https://github.com/user-attachments/assets/512bdd4a-00aa-4499-85d6-4c7daf443199)
 
-4.
+3.
 THIS PART OF THE CODE GIVES THE SUMMARY BY PLOTTING A BAR GRAPH THAT SAYS
 
 1st Class: Passengers who survived paid an average fare of $95.61, while those who did not survive paid $64.68.
@@ -19,7 +22,7 @@ THIS PART OF THE CODE GIVES THE SUMMARY BY PLOTTING A BAR GRAPH THAT SAYS
 3rd Class: The average fare for both survived and non-survived passengers is almost the same, around $13.67 and $13.69 respectively
 ![Screenshot (7)](https://github.com/user-attachments/assets/6d368cfb-9028-4d47-9dcc-77e30f8bf726)
 
-6.
+4.
 THIS PART OF THE CODE GIVES THE SUMMARY BY PLOTTING A BAR GRAPH THAT SAYS
 
 THE distributed within the population, highlighting that the 25-44 age group has the highest percentage, while the <5 age group has the lowest
