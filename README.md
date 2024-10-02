@@ -64,8 +64,7 @@ Chart of survival percentage by embarkation point. The size shows the sum of the
 {NOTE:
 Higher Survival Rate from Cherbourg: This could be due to a higher proportion of first-class passengers boarding at Cherbourg, who had better access to lifeboats.
 Lower Survival Rates from Queenstown and Southampton: These embarkation points might have had more third-class passengers, who faced more challenges in reaching lifeboats.}
-![Screenshot (19)](https://github.com/user-attachments/assets/39b462cb-242d-4943-8a8a-b9c631015e0e)
-![Screenshot (20)](https://github.com/user-attachments/assets/456c3b0b-efbd-408f-8779-7497bff02fad)
+![Screenshot (23)](https://github.com/user-attachments/assets/f997ee3d-1714-4754-8d42-b95b6ccdc6ac)
 Cherbourg ©: Passengers who embarked from Cherbourg have the highest survival rate, estimated to be around 55-60%.
 Queenstown (Q): The survival rate for passengers from Queenstown is the lowest, approximately 35-40%.
 Southampton (S): Passengers from Southampton have a survival rate of about 35-40%, similar to Queenstown.
@@ -88,6 +87,18 @@ Insight: In third class, the survival rates for males and females were equal, in
 Higher Survival Rates for Females: In both first and second classes, females had significantly higher survival rates compared to males.
 Equal Survival Rates in Third Class: The third class shows an equal survival rate for both genders, suggesting that class played a more critical role in survival than gender in this category.
 
+
+13.
+THIS PART OF THE CODE GIVES THE SUMMARY BY PLOTTING A BAR GRAPH THAT SAYS
+This graph is a scatter plot with a linear regression line, showing the relationship between the average fare paid by passengers (x-axis) and their survival status (y-axis) on the Titanic. The data points are represented by red circles and green triangles, indicating different categories, possibly gender or class.
+
+
+Red Circles: These data points might represent one category (e.g., males or third-class passengers).
+Green Triangles: These data points might represent another category (e.g., females or first-class passengers).
+Linear Regression Line: The trend line shows the general relationship between fare and survival. A positive slope indicates that higher fares are associated with higher survival rates.
+![Screenshot (24)](https://github.com/user-attachments/assets/361d36c9-53fe-4359-8d3c-39aeb8078afd)
+Higher Fares, Higher Survival: Passengers who paid higher fares generally had a higher chance of survival, as indicated by the upward trend of the regression line.
+Category Differences: The separation of data points into red circles and green triangles suggests that different categories (e.g., gender or class) had different survival rates, with one category (green triangles) showing a stronger positive correlation between fare and survival.
 
 
 
