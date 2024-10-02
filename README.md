@@ -78,7 +78,7 @@ Gender Disparity: The survival rate disparity between genders is more pronounced
 highliting the survivers in the 1st class
 ![Screenshot (15)](https://github.com/user-attachments/assets/fe4cd652-cca3-4ce4-9549-388f408d88fc)
 
-10.
+9.
 THIS PART OF THE CODE GIVES THE SUMMARY BY PLOTTING A BAR GRAPH THAT SAYS
 Survival Rate by Point of Embarkation
 Chart of survival percentage by embarkation point. The size shows the sum of the fares. The vertical position shows the survival rate.
