@@ -70,11 +70,15 @@ This graph helps visualize the relationship between fare and survival, highlight
 THIS PART OF THE CODE GIVES THE SUMMARY BY PLOTTING A BAR GRAPH THAT SAYS
 Correlation between survival rate & Age
 The scatter chart gives the rate of survival against age. The degree to which the points fall on the line indicate the strength of the correlation.
+
+Higher Survival for Females: Females generally had higher survival rates across all classes compared to males.
+Class Impact: First-class passengers had the highest survival rates, with a noticeable drop in survival rates for second and third-class passengers, especially for males.
+Gender Disparity: The survival rate disparity between genders is more pronounced in lower classes, with males in third class having the lowest survival rates.
 ![Screenshot (16)](https://github.com/user-attachments/assets/92639a0d-a65a-48b9-808d-5c2f68ebf7fd)
 highliting the survivers in the 1st class
 ![Screenshot (15)](https://github.com/user-attachments/assets/fe4cd652-cca3-4ce4-9549-388f408d88fc)
 
-9.
+10.
 THIS PART OF THE CODE GIVES THE SUMMARY BY PLOTTING A BAR GRAPH THAT SAYS
 Survival Rate by Point of Embarkation
 Chart of survival percentage by embarkation point. The size shows the sum of the fares. The vertical position shows the survival rate.
