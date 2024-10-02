@@ -20,13 +20,26 @@ THIS PART OF THE CODE GIVES THE SUMMARY BY PLOTTING A BAR GRAPH THAT SAYS
 ![Screenshot (7)](https://github.com/user-attachments/assets/6d368cfb-9028-4d47-9dcc-77e30f8bf726)
 
 5.
-THIS PART OF THE CODE GIVES THE SUMMARY BY PLOTTING A BAR GRAPH THAT SAYS THE distributed within the population, highlighting that the 25-44 age group has the highest percentage, while the <5 age group has the lowest
+THIS PART OF THE CODE GIVES THE SUMMARY BY PLOTTING A BAR GRAPH THAT SAYS
+THE distributed within the population, highlighting that the 25-44 age group has the highest percentage, while the <5 age group has the lowest
 ![Screenshot (8)](https://github.com/user-attachments/assets/879e3953-52d1-411e-ada2-6acdc972587f)
 
-6.
+7.
 THIS PART OF THE CODE GIVES THE SUMMARY BY PLOTTING A BAR GRAPH THAT SAYS
 This chart shows the total number of passengers in blue and the number of survivors in orange based on class and gender. The difference between the blue bar and the orange bar is the number of people who lost their lives aboard the Titanic. The percentage that survived is shown above each bar
 ![Screenshot (11)](https://github.com/user-attachments/assets/12a8ea45-7226-4b77-b88b-fce560deacd0)
+
+THE NUMBER OF PASSENGERS THAT WERE ON BOARD 
+![Screenshot (10)](https://github.com/user-attachments/assets/22ee8058-cc6f-4bd4-a374-ceebd8b62fb3)
+
+7.
+THIS PART OF THE CODE GIVES THE SUMMARY BY PLOTTING A BAR GRAPH THAT SAYS
+This chart shows the total number of passengers in blue and the number of survivors in orange based on age and gender. The difference between the blue bar and the orange bar is the number of people who lost their lives aboard the Titanic. The percentage that survived is shown above each bar
+THE NO OF FEMALE PASSENGERS SURVIVED  BASED ON AGE 
+![Screenshot (12)](https://github.com/user-attachments/assets/d3d17947-0dee-45e7-a75f-f6cc655505d7)
+THE NO OF MALE PASSANGERS SURVIVED BASED ON AGE 
+![Screenshot (13)](https://github.com/user-attachments/assets/4e180082-b81e-4074-963d-eb7e9586505e)
+
 
 
 
