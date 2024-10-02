@@ -60,14 +60,36 @@ highliting the survivers in the 1st class
 THIS PART OF THE CODE GIVES THE SUMMARY BY PLOTTING A BAR GRAPH THAT SAYS
 Survival Rate by Point of Embarkation
 Chart of survival percentage by embarkation point. The size shows the sum of the fares. The vertical position shows the survival rate.
-NOTE:
+
+{NOTE:
 Higher Survival Rate from Cherbourg: This could be due to a higher proportion of first-class passengers boarding at Cherbourg, who had better access to lifeboats.
-Lower Survival Rates from Queenstown and Southampton: These embarkation points might have had more third-class passengers, who faced more challenges in reaching lifeboats.
+Lower Survival Rates from Queenstown and Southampton: These embarkation points might have had more third-class passengers, who faced more challenges in reaching lifeboats.}
 ![Screenshot (19)](https://github.com/user-attachments/assets/39b462cb-242d-4943-8a8a-b9c631015e0e)
 ![Screenshot (20)](https://github.com/user-attachments/assets/456c3b0b-efbd-408f-8779-7497bff02fad)
 Cherbourg ©: Passengers who embarked from Cherbourg have the highest survival rate, estimated to be around 55-60%.
 Queenstown (Q): The survival rate for passengers from Queenstown is the lowest, approximately 35-40%.
 Southampton (S): Passengers from Southampton have a survival rate of about 35-40%, similar to Queenstown.
+
+12.
+THIS PART OF THE CODE GIVES THE SUMMARY BY PLOTTING A BAR GRAPH THAT SAYS
+First Class:
+Females: 96.8% survival rate.
+Males: 3.2% survival rate.
+Insight: Females in first class had a significantly higher survival rate compared to males.
+Second Class:
+Females: 92.1% survival rate.
+Males: 7.9% survival rate.
+Insight: Similar to first class, females in second class also had a much higher survival rate than males.
+Third Class:
+Females: 50% survival rate.
+Males: 50% survival rate.
+Insight: In third class, the survival rates for males and females were equal, indicating no gender-based survival advantage
+![Screenshot (21)](https://github.com/user-attachments/assets/87a4211a-ebd6-4794-8d90-48bbb91810f7)
+Higher Survival Rates for Females: In both first and second classes, females had significantly higher survival rates compared to males.
+Equal Survival Rates in Third Class: The third class shows an equal survival rate for both genders, suggesting that class played a more critical role in survival than gender in this category.
+
+
+
 
 
 
