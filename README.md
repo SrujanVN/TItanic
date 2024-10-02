@@ -44,6 +44,8 @@ Insight: In third class, the difference in average fares between survivors and n
 THIS PART OF THE CODE GIVES THE SUMMARY BY PLOTTING A BAR GRAPH THAT SAYS
 
 This chart shows the total number of passengers in blue and the number of survivors in orange based on class and gender. The difference between the blue bar and the orange bar is the number of people who lost their lives aboard the Titanic. The percentage that survived is shown above each bar
+Higher Survival Rate for Females: The survival rate for female passengers is significantly higher (74%) compared to male passengers (19%).
+Gender Disparity: The graph highlights a stark difference in survival rates between genders, with females having a much higher chance of survival.
 ![Screenshot (11)](https://github.com/user-attachments/assets/12a8ea45-7226-4b77-b88b-fce560deacd0)
 
 THE NUMBER OF PASSENGERS THAT WERE ON BOARD 
