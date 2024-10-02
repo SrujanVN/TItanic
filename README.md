@@ -53,8 +53,23 @@ THIS PART OF THE CODE GIVES THE SUMMARY BY PLOTTING A BAR GRAPH THAT SAYS
 Correlation between survival rate & Age
 The scatter chart gives the rate of survival against age. The degree to which the points fall on the line indicate the strength of the correlation.
 ![Screenshot (16)](https://github.com/user-attachments/assets/92639a0d-a65a-48b9-808d-5c2f68ebf7fd)
-highliting the 1st class survivers 
-![Screenshot (18)](https://github.com/user-attachments/assets/27c35f2f-c83e-40e6-b49f-edf4d0166cd0)
+highliting the survivers in the 1st class
+![Screenshot (15)](https://github.com/user-attachments/assets/fe4cd652-cca3-4ce4-9549-388f408d88fc)
+
+11.
+THIS PART OF THE CODE GIVES THE SUMMARY BY PLOTTING A BAR GRAPH THAT SAYS
+Survival Rate by Point of Embarkation
+Chart of survival percentage by embarkation point. The size shows the sum of the fares. The vertical position shows the survival rate.
+NOTE:
+Higher Survival Rate from Cherbourg: This could be due to a higher proportion of first-class passengers boarding at Cherbourg, who had better access to lifeboats.
+Lower Survival Rates from Queenstown and Southampton: These embarkation points might have had more third-class passengers, who faced more challenges in reaching lifeboats.
+![Screenshot (19)](https://github.com/user-attachments/assets/39b462cb-242d-4943-8a8a-b9c631015e0e)
+![Screenshot (20)](https://github.com/user-attachments/assets/456c3b0b-efbd-408f-8779-7497bff02fad)
+Cherbourg ©: Passengers who embarked from Cherbourg have the highest survival rate, estimated to be around 55-60%.
+Queenstown (Q): The survival rate for passengers from Queenstown is the lowest, approximately 35-40%.
+Southampton (S): Passengers from Southampton have a survival rate of about 35-40%, similar to Queenstown.
+
+
 
 
 
