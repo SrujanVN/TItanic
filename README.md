@@ -26,9 +26,21 @@ THIS PART OF THE CODE GIVES THE SUMMARY BY PLOTTING A BAR GRAPH THAT SAYS
 THIS PART OF THE CODE GIVES THE SUMMARY BY PLOTTING A BAR GRAPH THAT SAYS
 
 THE distributed within the population, highlighting that the 25-44 age group has the highest percentage, while the <5 age group has the lowest
+First Class:
+Survived: $84.15
+Died: $64.68
+Insight: First-class passengers who survived paid higher average fares compared to those who did not survive.
+Second Class:
+Survived: $20.66
+Died: $19.41
+Insight: Second-class passengers who survived also paid slightly higher average fares than those who did not survive.
+Third Class:
+Survived: $13.67
+Died: $13.22
+Insight: In third class, the difference in average fares between survivors and non-survivors is minimal.
 ![Screenshot (8)](https://github.com/user-attachments/assets/879e3953-52d1-411e-ada2-6acdc972587f)
 
-7.
+5.
 THIS PART OF THE CODE GIVES THE SUMMARY BY PLOTTING A BAR GRAPH THAT SAYS
 
 This chart shows the total number of passengers in blue and the number of survivors in orange based on class and gender. The difference between the blue bar and the orange bar is the number of people who lost their lives aboard the Titanic. The percentage that survived is shown above each bar
@@ -37,7 +49,7 @@ This chart shows the total number of passengers in blue and the number of surviv
 THE NUMBER OF PASSENGERS THAT WERE ON BOARD 
 ![Screenshot (10)](https://github.com/user-attachments/assets/22ee8058-cc6f-4bd4-a374-ceebd8b62fb3)
 
-7.
+6.
 THIS PART OF THE CODE GIVES THE SUMMARY BY PLOTTING A BAR GRAPH THAT SAYS
 
 This chart shows the total number of passengers in blue and the number of survivors in orange based on age and gender. The difference between the blue bar and the orange bar is the number of people who lost their lives aboard the Titanic. The percentage that survived is shown above each bar
@@ -48,13 +60,13 @@ THE NO OF FEMALE PASSANGERS SURVIVED BASED ON AGE
 THE NO OF MALE PASSANGERS SURVIVED BASED ON AGE
 {THE AGE GROUP OF 30 HAD THE HIGHEST SURVIVERS WITH 21% }
 
-9.
+7.
 THIS PART OF THE CODE GIVES THE SUMMARY BY PLOTTING A BAR GRAPH THAT SAYS
 The scatter chart gives the rate of survival against fare. The degree to which the points fall on the line indicate the strength of the correlation.
 ![Screenshot (14)](https://github.com/user-attachments/assets/582c2e51-e4a2-4db2-9473-93f9b678ced0)
 This graph helps visualize the relationship between fare and survival, highlighting that higher fares are associated with a higher likelihood of survival
 
-10.
+8.
 THIS PART OF THE CODE GIVES THE SUMMARY BY PLOTTING A BAR GRAPH THAT SAYS
 Correlation between survival rate & Age
 The scatter chart gives the rate of survival against age. The degree to which the points fall on the line indicate the strength of the correlation.
@@ -62,7 +74,7 @@ The scatter chart gives the rate of survival against age. The degree to which th
 highliting the survivers in the 1st class
 ![Screenshot (15)](https://github.com/user-attachments/assets/fe4cd652-cca3-4ce4-9549-388f408d88fc)
 
-11.
+9.
 THIS PART OF THE CODE GIVES THE SUMMARY BY PLOTTING A BAR GRAPH THAT SAYS
 Survival Rate by Point of Embarkation
 Chart of survival percentage by embarkation point. The size shows the sum of the fares. The vertical position shows the survival rate.
@@ -75,7 +87,7 @@ Cherbourg ©: Passengers who embarked from Cherbourg have the highest survival r
 Queenstown (Q): The survival rate for passengers from Queenstown is the lowest, approximately 35-40%.
 Southampton (S): Passengers from Southampton have a survival rate of about 35-40%, similar to Queenstown.
 
-12.
+10.
 THIS PART OF THE CODE GIVES THE SUMMARY BY PLOTTING A BAR GRAPH THAT SAYS
 First Class:
 Females: 96.8% survival rate.
@@ -94,7 +106,7 @@ Higher Survival Rates for Females: In both first and second classes, females had
 Equal Survival Rates in Third Class: The third class shows an equal survival rate for both genders, suggesting that class played a more critical role in survival than gender in this category.
 
 
-13.
+11.
 THIS PART OF THE CODE GIVES THE SUMMARY BY PLOTTING A BAR GRAPH THAT SAYS
 This graph is a scatter plot with a linear regression line, showing the relationship between the average fare paid by passengers (x-axis) and their survival status (y-axis) on the Titanic. The data points are represented by red circles and green triangles, indicating different categories, possibly gender or class.
 
@@ -106,7 +118,7 @@ Linear Regression Line: The trend line shows the general relationship between fa
 Higher Fares, Higher Survival: Passengers who paid higher fares generally had a higher chance of survival, as indicated by the upward trend of the regression line.
 Category Differences: The separation of data points into red circles and green triangles suggests that different categories (e.g., gender or class) had different survival rates, with one category (green triangles) showing a stronger positive correlation between fare and survival.
 
- 14.
+ 12.
  THIS PART OF THE CODE GIVES THE SUMMARY BY PLOTTING A BAR GRAPH THAT SAYS
 
 This graph is a bar graph titled “Cabin wise Survived Died,” showing the number of Titanic passengers who survived and died, categorized by their cabin class.
