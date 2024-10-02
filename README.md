@@ -23,6 +23,13 @@ THIS PART OF THE CODE GIVES THE SUMMARY BY PLOTTING A BAR GRAPH THAT SAYS
 THIS PART OF THE CODE GIVES THE SUMMARY BY PLOTTING A BAR GRAPH THAT SAYS THE distributed within the population, highlighting that the 25-44 age group has the highest percentage, while the <5 age group has the lowest
 ![Screenshot (8)](https://github.com/user-attachments/assets/879e3953-52d1-411e-ada2-6acdc972587f)
 
+6.
+THIS PART OF THE CODE GIVES THE SUMMARY BY PLOTTING A BAR GRAPH THAT SAYS
+This chart shows the total number of passengers in blue and the number of survivors in orange based on class and gender. The difference between the blue bar and the orange bar is the number of people who lost their lives aboard the Titanic. The percentage that survived is shown above each bar
+![Screenshot (11)](https://github.com/user-attachments/assets/12a8ea45-7226-4b77-b88b-fce560deacd0)
+
+
+
 
 
 
